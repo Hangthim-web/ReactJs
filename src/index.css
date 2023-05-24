@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+img{
+height:80px;
+border-radius:16px;
+
+}
+section
+{
+max-height:700px;
+overflow:scroll;
+overflow-x:hidden;
+}
+form
+{
+display:flex;
+flex-wrap:wrap;
+justify-content:start;
+margin:80px auto;
+width:900px;
+}
+
+.firstDiv{
+flex-basis:800px;}
+.secondDiv{
+flex-basis:900px;}
+*/
